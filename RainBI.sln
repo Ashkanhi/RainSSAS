@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "RainBI", "RainBI\RainBI.dwproj", "{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}.Development|Default.ActiveCfg = Development
+		{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}.Development|Default.Build.0 = Development
+		{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {705B8596-5E42-4D60-878D-D7BEEE47789F}
+	EndGlobalSection
+EndGlobal
