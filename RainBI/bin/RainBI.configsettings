@@ -3,7 +3,7 @@
     <DataSources>
       <DataSource>
         <ID>Rain DW</ID>
-        <ConnectionString>Data Source=DASHBOARD\MULTIDIMENSIONAL;Initial Catalog=RainDW;Persist Security Info=True;User ID=;Password=;Encrypt=False</ConnectionString>
+        <ConnectionString>Data Source=DASHBOARD\MULTIDIMENSIONAL;Initial Catalog=RainDW_Bakhshi;Persist Security Info=True;User ID=;Password=;Encrypt=False</ConnectionString>
         <ManagedProvider>System.Data.SqlClient</ManagedProvider>
         <ImpersonationInfo>
           <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateAccount</ImpersonationMode>
@@ -47,13 +47,13 @@
         <ID>Dim Customer Group</ID>
       </Dimension>
       <Dimension>
-        <ID>Dim Customer</ID>
-      </Dimension>
-      <Dimension>
         <ID>Dim Stock</ID>
       </Dimension>
       <Dimension>
         <ID>Dim Reason</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Customer</ID>
       </Dimension>
     </Dimensions>
     <Cubes>
@@ -81,6 +81,22 @@
             <Partitions>
               <Partition>
                 <ID>Fact Stock Document</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+          <MeasureGroup>
+            <ID>Fact Supplier Agreement</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Supplier Agreement</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+          <MeasureGroup>
+            <ID>Fact Supplier Contract</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Supplier Contract</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>

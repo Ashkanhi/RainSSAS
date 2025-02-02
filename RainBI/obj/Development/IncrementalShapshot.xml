@@ -19,119 +19,119 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>ePubsJiylvQ2p4Vtx9BwKReUYkA=1/22/2025 4:48:17 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>CJv2ac9cVA0/b7OfR0px58srzp0=1/25/2025 2:54:22 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Rain DW</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>t7dk9yId5O9R5WNp4C57Ufk+3ic=1/22/2025 4:41:07 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>q+ltxEP5tEKpV+H9S4idLW5nLgs=2/2/2025 6:24:48 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Rain DW</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>5Bha1B3ONnlpnD+pl3CZgzD4CE8=9/11/2021 12:58:20 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>5Bha1B3ONnlpnD+pl3CZgzD4CE8=9/11/2021 12:58:20 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Business Date</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>IfsRdnOhEZgYZLCxmgoo4QN467U=9/7/2021 2:07:41 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>IfsRdnOhEZgYZLCxmgoo4QN467U=9/7/2021 2:07:41 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Document Type</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>+y7yoDM5FkYXKl/npeyvXUl6xjc=9/7/2021 2:06:59 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>+y7yoDM5FkYXKl/npeyvXUl6xjc=9/7/2021 2:06:59 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Product Group</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>tp1vAF7ckpDWrjUEUNmntkkpvdM=9/7/2021 2:06:59 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>tp1vAF7ckpDWrjUEUNmntkkpvdM=9/7/2021 2:06:59 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Tax Group</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>+xbI18+9T5zV7ysefKyQM9ejQkw=9/7/2021 2:18:08 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>+xbI18+9T5zV7ysefKyQM9ejQkw=9/7/2021 2:18:08 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Sale Type</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>Lh5rczLbKUsAAYVRws6wneZ14gc=9/7/2021 3:04:54 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>Lh5rczLbKUsAAYVRws6wneZ14gc=9/7/2021 3:04:54 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Company</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>xKWlwwXA5571Atc5aL6inBI1QJQ=9/11/2021 12:16:21 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>JqHxm+rSrcPmPHp0ktuE8quIMyA=1/25/2025 4:00:24 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Store</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>tJWN6U86dyCo+7004vX5FQq3v1s=9/7/2021 3:24:41 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>tJWN6U86dyCo+7004vX5FQq3v1s=9/7/2021 3:24:41 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Supplier</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>qV64T4H1xgY+XaqXVprz0ouvqyw=9/7/2021 3:24:41 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>qV64T4H1xgY+XaqXVprz0ouvqyw=9/7/2021 3:24:41 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim User</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>KCA3MXQpX1w980fNqL3s4oIZd2Q=9/7/2021 3:09:13 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>KCA3MXQpX1w980fNqL3s4oIZd2Q=9/7/2021 3:09:13 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Item</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>i2mtAL2VVjQSroTCQ61RWJAtFGI=9/8/2021 4:14:11 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>i2mtAL2VVjQSroTCQ61RWJAtFGI=9/8/2021 4:14:11 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Customer Group</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>cIuMogwTgQC0e+0yGqT6g+XQkf4=9/7/2021 3:23:57 PM12/18/2024 4:20:03 PM</TimeStamp>
-        <ID>
-          <String>Dim Customer</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>7GPJVyzlFffhe5XraF7RgmKdhC0=9/7/2021 3:21:49 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>7GPJVyzlFffhe5XraF7RgmKdhC0=9/7/2021 3:21:49 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Stock</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>MVdWsGWUZ/6JErUnPNblYf3StY4=9/7/2021 3:23:57 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>MVdWsGWUZ/6JErUnPNblYf3StY4=9/7/2021 3:23:57 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Dim Reason</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>0equ20Uq4FFOxzSY/n6t2EN/noQ=2/2/2025 6:24:20 PM2/2/2025 6:24:19 PM</TimeStamp>
+        <ID>
+          <String>Dim Customer</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>Q41WEfo9GdZPiDQplvsXNNUv2DE=9/11/2021 1:01:06 PM12/18/2024 4:20:03 PMYVms4XedD8TUPJykUzmQfqWiFfE=9/7/2021 3:10:38 PM12/18/2024 4:20:03 PM</TimeStamp>
+        <TimeStamp>ucmIAkJINY2ZGKZalfJJDF5gFHo=1/27/2025 2:00:43 PM1/22/2025 5:22:03 PMnf5j9SWdv/m3WhKmNo37tDGyzPA=1/25/2025 5:23:20 PM1/22/2025 5:22:03 PM</TimeStamp>
         <ID>
           <String>Rain</String>
         </ID>
@@ -139,7 +139,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>9BONUU0fALuRz30PaQDnLtjY4O8=9/5/2021 5:47:28 PM12/18/2024 4:20:03 PM</TimeStamp>
+      <TimeStamp>9BONUU0fALuRz30PaQDnLtjY4O8=9/5/2021 5:47:28 PM1/22/2025 5:22:03 PM</TimeStamp>
       <ID>
         <String>RainBI</String>
       </ID>
@@ -148,5 +148,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2025-01-22T13:18:33.896667Z</LastDeployed>
+  <LastDeployed>2025-02-02T14:55:24.873333Z</LastDeployed>
 </DeploymentSnapshot>

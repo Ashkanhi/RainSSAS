@@ -64,16 +64,16 @@
       <FullPath>Dim Customer Group.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Dim Customer.dim</Name>
-      <FullPath>Dim Customer.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>Dim Stock.dim</Name>
       <FullPath>Dim Stock.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Dim Reason.dim</Name>
       <FullPath>Dim Reason.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Customer.dim</Name>
+      <FullPath>Dim Customer.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
@@ -96,7 +96,7 @@
           <ConfigurationSetting>
             <Id>Rain DW</Id>
             <Name>Rain DW</Name>
-            <Value xsi:type="xsd:string">Data Source=DASHBOARD\MULTIDIMENSIONAL;Initial Catalog=RainDW;Persist Security Info=True;User ID=;Password=;Encrypt=False</Value>
+            <Value xsi:type="xsd:string">Data Source=DASHBOARD\MULTIDIMENSIONAL;Initial Catalog=RainDW_Bakhshi;Persist Security Info=True;User ID=;Password=;Encrypt=False</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionProviderMappings>
