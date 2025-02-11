@@ -1,17 +1,17 @@
-﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="b63543a3-0297-4a35-81d3-3c924e3584b9" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="3c5fbbfb-cc2f-4852-8486-ab5fdd4e3d33" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Rain</ID>
   <MeasureGroups>
     <MeasureGroup>
       <ID>Fact Sale Return</ID>
       <Partitions>
-        <Partition dwd:design-time-name="4fc13098-c899-4c64-950b-4a188f398068">
+        <Partition dwd:design-time-name="a829a16b-8b1f-4b93-b5cf-9fb5d5cf40cf">
           <ID>Fact Sale Return</ID>
           <Name>Fact Sale Return</Name>
           <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
           <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
           <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
           <State>Unprocessed</State>
-          <Source xsi:type="DsvTableBinding" dwd:design-time-name="f0ebcf82-1764-4d8c-ba92-5ccebedfae81">
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="9d7282dc-ac56-4073-8df3-e35c303cc112">
             <DataSourceViewID>Rain DW</DataSourceViewID>
             <TableID>dbo_FactSaleReturn</TableID>
           </Source>
@@ -24,14 +24,14 @@
     <MeasureGroup>
       <ID>Fact Sale Return Tender</ID>
       <Partitions>
-        <Partition dwd:design-time-name="17ad34d1-8f94-4949-8da0-52da8989ee24">
+        <Partition dwd:design-time-name="e8f0e148-cb84-46bb-a3da-b49495d91137">
           <ID>Fact Sale Return Tender</ID>
           <Name>Fact Sale Return Tender</Name>
           <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
           <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
           <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
           <State>Unprocessed</State>
-          <Source xsi:type="DsvTableBinding" dwd:design-time-name="a1f5938c-172b-467f-bdc8-12608d4b61b7">
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="2c051a39-0519-494f-b4db-6c1b8d1b91be">
             <DataSourceViewID>Rain DW</DataSourceViewID>
             <TableID>dbo_FactSaleReturnTender</TableID>
           </Source>
@@ -44,14 +44,14 @@
     <MeasureGroup>
       <ID>Fact Stock Document</ID>
       <Partitions>
-        <Partition dwd:design-time-name="0c95b91d-534b-4a78-8293-a4d36ae8761a">
+        <Partition dwd:design-time-name="36872c77-9083-478c-bb73-d33035fdf828">
           <ID>Fact Stock Document</ID>
           <Name>Fact Stock Document</Name>
           <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
           <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
           <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
           <State>Unprocessed</State>
-          <Source xsi:type="DsvTableBinding" dwd:design-time-name="89545948-4d4f-4a92-9163-c2632e2bb15d">
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="a216a921-6b08-4fe8-99ca-e8bdeb14658a">
             <DataSourceViewID>Rain DW</DataSourceViewID>
             <TableID>dbo_FactStockDocument</TableID>
           </Source>
@@ -64,14 +64,14 @@
     <MeasureGroup>
       <ID>Fact Supplier Agreement</ID>
       <Partitions>
-        <Partition dwd:design-time-name="f8396e94-fd64-413a-9fed-b0d1c5690b43">
+        <Partition dwd:design-time-name="e2ae532f-c201-4a04-8bce-032fc4b8c447">
           <ID>Fact Supplier Agreement</ID>
           <Name>Fact Supplier Agreement</Name>
           <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
           <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
           <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
           <State>Unprocessed</State>
-          <Source xsi:type="DsvTableBinding" dwd:design-time-name="bbc448fb-c2eb-429a-8d65-d3900e2b9642">
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="91bbfd84-ac9e-492e-9451-4033a9b8faf9">
             <DataSourceViewID>Rain DW</DataSourceViewID>
             <TableID>dbo_FactSupplierAgreement</TableID>
           </Source>
@@ -84,14 +84,14 @@
     <MeasureGroup>
       <ID>Fact Supplier Contract</ID>
       <Partitions>
-        <Partition dwd:design-time-name="44ecda7b-f74b-4771-947f-86af003072f1">
+        <Partition dwd:design-time-name="fa6b46ee-96e5-4a52-967d-1330f06f1c35">
           <ID>Fact Supplier Contract</ID>
           <Name>Fact Supplier Contract</Name>
           <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
           <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
           <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
           <State>Unprocessed</State>
-          <Source xsi:type="DsvTableBinding" dwd:design-time-name="7cb6cb75-a95d-4172-9798-1a82fd181c60">
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="d3a90178-503e-4f41-a245-87341c806291">
             <DataSourceViewID>Rain DW</DataSourceViewID>
             <TableID>dbo_FactSupplierContract</TableID>
           </Source>
@@ -104,14 +104,14 @@
     <MeasureGroup>
       <ID>Fact Sale Return 1</ID>
       <Partitions>
-        <Partition dwd:design-time-name="2298b655-e6ba-4eac-bca6-9f79c08d433a">
+        <Partition dwd:design-time-name="68b3727c-b595-41ce-a187-abb5ed246ded">
           <ID>Fact Sale Return</ID>
           <Name>Fact Sale Return</Name>
           <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
           <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
           <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
           <State>Unprocessed</State>
-          <Source xsi:type="DsvTableBinding" dwd:design-time-name="2f37d316-fef1-4df4-8aac-fe9033f42e78">
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="3f208b80-98e1-44de-8efb-a6c31feec8bd">
             <DataSourceViewID>Rain DW</DataSourceViewID>
             <TableID>dbo_FactSaleReturn</TableID>
           </Source>
