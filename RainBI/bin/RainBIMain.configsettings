@@ -55,6 +55,9 @@
       <Dimension>
         <ID>Dim Customer</ID>
       </Dimension>
+      <Dimension>
+        <ID>Dim StockDocument</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>

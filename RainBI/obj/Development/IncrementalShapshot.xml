@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>bZSMlMzStQtN3vl8YB1Z/Z3qVio=2/11/2025 1:15:26 PM2/4/2025 7:20:45 PM</TimeStamp>
+        <TimeStamp>4ssQX/WzBi8PCpFuLQNZD80lOGc=2/16/2025 9:42:29 AM2/4/2025 7:20:45 PM</TimeStamp>
         <ID>
           <String>Rain DW</String>
         </ID>
@@ -130,8 +130,15 @@
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>SDgnNqDTtvNQaktfyE94ePbPfK8=2/16/2025 9:42:59 AM2/16/2025 9:42:28 AM</TimeStamp>
+        <ID>
+          <String>Dim StockDocument</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>wLrT/b9E25PPh9bHbB+KitySSJc=2/11/2025 1:15:23 PM2/4/2025 7:20:45 PMhVjegpkDAlR+o4O3VK48pKk3s/I=2/11/2025 1:15:20 PM2/4/2025 7:20:45 PM</TimeStamp>
+        <TimeStamp>dlVcHlSOUcEfHg1X/fOdr3ak3uE=2/16/2025 9:50:28 AM2/4/2025 7:20:45 PMhVjegpkDAlR+o4O3VK48pKk3s/I=2/11/2025 1:15:20 PM2/4/2025 7:20:45 PM</TimeStamp>
         <ID>
           <String>Rain</String>
         </ID>
@@ -148,5 +155,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2025-02-11T09:46:32.623333Z</LastDeployed>
+  <LastDeployed>2025-02-16T06:23:48.503333Z</LastDeployed>
 </DeploymentSnapshot>
