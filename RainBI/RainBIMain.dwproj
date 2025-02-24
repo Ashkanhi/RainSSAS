@@ -76,8 +76,8 @@
       <FullPath>Dim Customer.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Dim StockDocument.dim</Name>
-      <FullPath>Dim StockDocument.dim</FullPath>
+      <Name>Dim Stock Document.dim</Name>
+      <FullPath>Dim Stock Document.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>

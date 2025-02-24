@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\BI\\BiProject\\RainBI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|C:\\BI\\BiProject\\RainBI\\RainBI\\Rain DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Rain DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|C:\\BI\\BiProject\\RainBI\\RainBI\\Rain.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
       "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Rain.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|C:\\BI\\BiProject\\RainBI\\RainBI\\Dim StockDocument.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Dim StockDocument.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|C:\\BI\\BiProject\\RainBI\\RainBI\\Dim Product Group.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Dim Product Group.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|C:\\BI\\BiProject\\RainBI\\RainBI\\Rain DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Rain DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|C:\\BI\\BiProject\\RainBI\\RainBI\\Dim Tax Group.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Dim Tax Group.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +26,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dim StockDocument.dim [Design]",
-              "DocumentMoniker": "C:\\BI\\BiProject\\RainBI\\RainBI\\Dim StockDocument.dim",
-              "RelativeDocumentMoniker": "RainBI\\Dim StockDocument.dim",
-              "ToolTip": "C:\\BI\\BiProject\\RainBI\\RainBI\\Dim StockDocument.dim [Design]",
-              "RelativeToolTip": "RainBI\\Dim StockDocument.dim [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-16T06:12:30.035Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Rain.cube [Design]",
-              "DocumentMoniker": "C:\\BI\\BiProject\\RainBI\\RainBI\\Rain.cube",
-              "RelativeDocumentMoniker": "RainBI\\Rain.cube",
-              "ToolTip": "C:\\BI\\BiProject\\RainBI\\RainBI\\Rain.cube [Design]",
-              "RelativeToolTip": "RainBI\\Rain.cube [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-15T14:10:41.942Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Rain DW.dsv [Design]",
               "DocumentMoniker": "C:\\BI\\BiProject\\RainBI\\RainBI\\Rain DW.dsv",
               "RelativeDocumentMoniker": "RainBI\\Rain DW.dsv",
               "ToolTip": "C:\\BI\\BiProject\\RainBI\\RainBI\\Rain DW.dsv [Design]",
               "RelativeToolTip": "RainBI\\Rain DW.dsv [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-15T14:07:36.22Z",
+              "WhenOpened": "2025-02-24T13:04:09.408Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Product Group.dim [Design]",
+              "DocumentMoniker": "C:\\BI\\BiProject\\RainBI\\RainBI\\Dim Product Group.dim",
+              "RelativeDocumentMoniker": "RainBI\\Dim Product Group.dim",
+              "ToolTip": "C:\\BI\\BiProject\\RainBI\\RainBI\\Dim Product Group.dim [Design]",
+              "RelativeToolTip": "RainBI\\Dim Product Group.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T13:03:29.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Tax Group.dim [Design]",
+              "DocumentMoniker": "C:\\BI\\BiProject\\RainBI\\RainBI\\Dim Tax Group.dim",
+              "RelativeDocumentMoniker": "RainBI\\Dim Tax Group.dim",
+              "ToolTip": "C:\\BI\\BiProject\\RainBI\\RainBI\\Dim Tax Group.dim [Design]",
+              "RelativeToolTip": "RainBI\\Dim Tax Group.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T13:03:26.595Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rain.cube [Design]",
+              "DocumentMoniker": "C:\\BI\\BiProject\\RainBI\\RainBI\\Rain.cube",
+              "RelativeDocumentMoniker": "RainBI\\Rain.cube",
+              "ToolTip": "C:\\BI\\BiProject\\RainBI\\RainBI\\Rain.cube [Design]",
+              "RelativeToolTip": "RainBI\\Rain.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T13:00:24.85Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1159,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
             }
           ]
         }

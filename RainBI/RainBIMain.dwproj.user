@@ -7,14 +7,14 @@
           <ConfigurationSetting>
             <Id>Rain DW</Id>
             <Name>Rain DW</Name>
-            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAstMyxpEebESoo/br1eviDwAAAAAQAAAAUgBhAGkAbgAgAEQAVwAAAANmAADAAAAAEAAAAKbAa0RC/mrrYKC2R4/rvaAAAAAABIAAAKAAAAAQAAAAdAHY3mH1Pb71lZ1YOrnY3wgAAAASgrhQakASlBQAAAAM5ZMqeBVKB0JlavNbQ8tzBoDLCQ==</Value>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAstMyxpEebESoo/br1eviDwAAAAAQAAAAUgBhAGkAbgAgAEQAVwAAAANmAADAAAAAEAAAACPGpCvf8hDQKW0u/8swQ5kAAAAABIAAAKAAAAAQAAAAFEbTdesZH5LplWkJKr8X4ggAAACLZLtIxBQq2BQAAADmFuOKz49Ej/mpTdmcO8e8yxqwjQ==</Value>
           </ConfigurationSetting>
         </UserIDs>
         <UserPasswords>
           <ConfigurationSetting>
             <Id>Rain DW</Id>
             <Name>Rain DW</Name>
-            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAstMyxpEebESoo/br1eviDwAAAAAQAAAAUgBhAGkAbgAgAEQAVwAAAANmAADAAAAAEAAAAC4DbxjNsmVzRdKQqVIchXIAAAAABIAAAKAAAAAQAAAAMtpKC6+aH+JSKhJOpMRGBhgAAABdRW++1K35evX1zIAln8nDoI3jVQGUVNUUAAAAa+2fvDh99IYbjfhJPG82bcGo0Q4=</Value>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAstMyxpEebESoo/br1eviDwAAAAAQAAAAUgBhAGkAbgAgAEQAVwAAAANmAADAAAAAEAAAAKPptnqzzahMGXCSF96VBsQAAAAABIAAAKAAAAAQAAAAc3iEHzWro1Oj1qcchU9CDBgAAACaRUDhu9BOH0LhnHu4wSc5l0GHM/CHuFUUAAAAxNBYG4itv0Rc16LiUnyq2dtbC5c=</Value>
           </ConfigurationSetting>
         </UserPasswords>
         <TargetServer>DASHBOARD\MULTIDIMENSIONAL</TargetServer>

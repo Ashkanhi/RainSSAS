@@ -56,7 +56,7 @@
         <ID>Dim Customer</ID>
       </Dimension>
       <Dimension>
-        <ID>Dim StockDocument</ID>
+        <ID>Dim Stock Document</ID>
       </Dimension>
     </Dimensions>
     <Cubes>
@@ -76,14 +76,6 @@
             <Partitions>
               <Partition>
                 <ID>Fact Sale Return Tender</ID>
-              </Partition>
-            </Partitions>
-          </MeasureGroup>
-          <MeasureGroup>
-            <ID>Fact Stock Document</ID>
-            <Partitions>
-              <Partition>
-                <ID>Fact Stock Document</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>
@@ -108,6 +100,14 @@
             <Partitions>
               <Partition>
                 <ID>Fact Sale Return</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+          <MeasureGroup>
+            <ID>Fact Stock Document</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Stock Document</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>
