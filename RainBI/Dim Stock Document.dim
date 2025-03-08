@@ -1,4 +1,4 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="df1b99fe-708c-44d3-ad71-a5190ecc6f17" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="f2ed6a59-491b-4ec6-b208-fe31f43ac24f" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Dim Stock Document</ID>
   <Name>Dim Stock Document</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3446" scrolltop="-6376" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10107" y="14631" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3552" scrolltop="-5953" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10319" y="14631" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="01000000900144420100065461686f6d61" />
             </font>
@@ -19,9 +19,9 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimStockDocument" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3175" height="1879" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimStockDocument" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3995" height="2805" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
-              <ddsxmlobjectstreaminitwrapper binary="000e0000670c000057070000" />
+              <ddsxmlobjectstreaminitwrapper binary="000e00009b0f0000f50a0000" />
             </control>
             <layoutobject>
               <ddsxmlobj>
@@ -47,11 +47,11 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
-      <Value>-3446</Value>
+      <Value>-3552</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-      <Value>-6376</Value>
+      <Value>-5953</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
@@ -65,68 +65,113 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
       <Value>100</Value>
     </Annotation>
-    <Annotation>
-      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
-      <Value>
-        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
-          <Shapes NodeWidth="105">
-            <Shape Id="Document ID" Expanded="true">
-              <Attributes>
-                <Attribute Id="Document ID" />
-                <Attribute Id="Document Code" />
-              </Attributes>
-              <Position x="20" y="20" />
-            </Shape>
-          </Shapes>
-        </DiagramLayout>
-      </Value>
-    </Annotation>
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="4b6cfe80-ab8e-4934-9710-a4f82a110d11">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="a6e3bc4a-e2ba-4ca2-9e35-1c46d1266c5b">
     <DataSourceViewID>Rain DW</DataSourceViewID>
   </Source>
-  <ErrorConfiguration dwd:design-time-name="d1878e47-ca37-4553-8c15-cbc3040bb18d">
+  <ErrorConfiguration dwd:design-time-name="f461fa5d-3da1-4555-958b-66b695a12050">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="80d99c61-c231-4df5-8a37-682853ed5d11">
+    <Attribute dwd:design-time-name="deb19fc8-56e4-4920-bb6a-9ed502b3b596">
       <ID>Document ID</ID>
       <Name>Document ID</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="d71f14c9-14fd-4db9-84f1-8cfad3801a0f">
+        <KeyColumn dwd:design-time-name="fd9ad2bc-4fd4-4aeb-9e2c-6d8ed3512e9b">
           <DataType>WChar</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="62570298-c258-4d7f-b3e2-770a71cc4a70">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="70367b04-2d17-4410-b4d1-91d1adb5bb43">
             <TableID>dbo_DimStockDocument</TableID>
             <ColumnID>DocumentID</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="6d310f1d-5517-41ee-9fc3-b3fb3cd7b70f">
+        <AttributeRelationship dwd:design-time-name="afaaf6b1-fdeb-4396-8a91-7b032f2ae26f">
           <AttributeID>Document Code</AttributeID>
           <Name>Document Code</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="2918a0b8-64be-4fbc-a9cb-b561885b6259">
+          <AttributeID>Is Refer</AttributeID>
+          <Name>Is Refer</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="5739cdc0-dfed-4d53-80b5-3d9a241c4bfb">
+          <AttributeID>Etl Time</AttributeID>
+          <Name>Etl Time</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="ff6085c5-0676-480d-a457-9b15bc6436ca">
+          <AttributeID>Document Status</AttributeID>
+          <Name>Document Status</Name>
         </AttributeRelationship>
       </AttributeRelationships>
       <OrderBy>Key</OrderBy>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="f9ebbdd2-a6e9-4088-b582-31bb5e56e5d3">
+    <Attribute dwd:design-time-name="7d41d643-c4ba-4ceb-8ba3-d4f3558c5696">
       <ID>Document Code</ID>
       <Name>Document Code</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="7715a12f-a601-4b7f-b212-6b21d31c8aaf">
+        <KeyColumn dwd:design-time-name="f1d02b35-bd8c-4283-8304-5c2d76448c2c">
           <DataType>WChar</DataType>
           <DataSize>50</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="7cf72ebd-adc3-477d-b7b3-29c89dcc2d87">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="8e458dce-d67d-45ef-878e-eab16743979f">
             <TableID>dbo_DimStockDocument</TableID>
             <ColumnID>DocumentCode</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="85b57bcf-4626-414b-a829-8421c7ce6d2a">
+      <ID>Is Refer</ID>
+      <Name>Is Refer</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="403927cf-60a9-4f81-861b-b0786256bbfa">
+          <DataType>Boolean</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="7d8faa86-13e3-460b-a8c7-98a82c0cac11">
+            <TableID>dbo_DimStockDocument</TableID>
+            <ColumnID>IsRefer</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="5647ed08-732d-4dee-9d3c-14d397c76a06">
+      <ID>Etl Time</ID>
+      <Name>Etl Time</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="1d2b4de2-cdeb-4188-9ea7-cb890b6e9be4">
+          <DataType>Date</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="71c7c546-776e-42ca-8b38-5212380f0428">
+            <TableID>dbo_DimStockDocument</TableID>
+            <ColumnID>EtlTime</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="ce24ef63-dccc-47c9-9902-c18e1eccbaa0">
+      <ID>Document Status</ID>
+      <Name>Document Status</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="0e27f322-6385-4bb5-be45-758c16ab8863">
+          <DataType>WChar</DataType>
+          <DataSize>100</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="1d5f47b2-6685-411b-b328-a40e3912832c">
+            <TableID>dbo_DimStockDocument</TableID>
+            <ColumnID>DocumentStatus</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
