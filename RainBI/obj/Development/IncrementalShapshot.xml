@@ -19,14 +19,14 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>DR72vlXEPUe28lG+HMW7GGJ7/Do=3/3/2025 2:25:43 PM2/4/2025 7:20:45 PM</TimeStamp>
+        <TimeStamp>Gpb38JyGs8K8wDGwSYHmrowg6B4=3/12/2025 2:37:42 PM2/4/2025 7:20:45 PM</TimeStamp>
         <ID>
           <String>Rain DW</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>c4oSHJh/M+nMQHNlYkCMauYjTqg=3/8/2025 12:36:25 PM2/4/2025 7:20:45 PM</TimeStamp>
+        <TimeStamp>6allZ2AaQzmSopl5OU2wP/zPkJ4=3/12/2025 4:22:06 PM2/4/2025 7:20:45 PM</TimeStamp>
         <ID>
           <String>Rain DW</String>
         </ID>
@@ -131,14 +131,21 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>HjZ/nTXAI/MUTxPIVxwbn/E/W/Y=3/8/2025 12:36:49 PM3/3/2025 3:14:06 PM</TimeStamp>
+        <TimeStamp>d/mFDlIznpBCueEznUTQUYL5FF0=3/8/2025 4:45:05 PM3/3/2025 3:14:06 PM</TimeStamp>
         <ID>
           <String>Dim Stock Document</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Ma0D40Qf/3shKy1hlPLSWYBlCyE=3/10/2025 12:05:18 PM3/9/2025 9:47:41 AM</TimeStamp>
+        <ID>
+          <String>Dim Etl Time</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>gj8GX5Ib8Iu9/pX51GmRHfgf4AU=3/8/2025 12:36:49 PM2/4/2025 7:20:45 PM5kRs5+STuGzK9W4IPD8F3v4Svvc=3/8/2025 10:49:26 AM2/4/2025 7:20:45 PM</TimeStamp>
+        <TimeStamp>gQWDFyqUhB89lG2S4M555ypzLyw=3/12/2025 4:22:06 PM2/4/2025 7:20:45 PMVkAJzdez5sVC/gYnnhZoc55+Khg=3/12/2025 2:42:04 PM2/4/2025 7:20:45 PM</TimeStamp>
         <ID>
           <String>Rain</String>
         </ID>
@@ -155,5 +162,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2025-03-08T09:10:16.463333Z</LastDeployed>
+  <LastDeployed>2025-03-12T12:52:32.746667Z</LastDeployed>
 </DeploymentSnapshot>

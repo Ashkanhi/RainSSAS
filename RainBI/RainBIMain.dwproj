@@ -79,6 +79,10 @@
       <Name>Dim Stock Document.dim</Name>
       <FullPath>Dim Stock Document.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Etl Time.dim</Name>
+      <FullPath>Dim Etl Time.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
