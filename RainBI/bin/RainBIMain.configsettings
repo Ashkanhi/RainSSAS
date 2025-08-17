@@ -114,6 +114,14 @@
               </Partition>
             </Partitions>
           </MeasureGroup>
+          <MeasureGroup>
+            <ID>Fact Sale Return 2</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Sale Return</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
         </MeasureGroups>
       </Cube>
     </Cubes>
