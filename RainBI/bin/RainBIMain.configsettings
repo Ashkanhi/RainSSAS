@@ -122,6 +122,14 @@
               </Partition>
             </Partitions>
           </MeasureGroup>
+          <MeasureGroup>
+            <ID>Fact Item Stock</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Item Stock</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
         </MeasureGroups>
       </Cube>
     </Cubes>

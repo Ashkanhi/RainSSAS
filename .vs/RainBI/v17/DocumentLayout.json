@@ -34,6 +34,14 @@
               "EditorCaption": " [Design]"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Dim Store.dim [Design]",
@@ -42,16 +50,7 @@
               "ToolTip": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Store.dim [Design]",
               "RelativeToolTip": "RainBI\\Dim Store.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-17T12:45:19.314Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
+              "WhenOpened": "2025-08-17T12:45:19.314Z"
             }
           ]
         },
