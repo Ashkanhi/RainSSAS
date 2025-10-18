@@ -4212,6 +4212,17 @@
               </Source>
               <DisplayFolder>FactSaleReturn</DisplayFolder>
             </Measure>
+            <Measure>
+              <ID>Total Discount</ID>
+              <Name>Total Discount</Name>
+              <Source>
+                <DataType>Double</DataType>
+                <Source xsi:type="ColumnBinding">
+                  <TableID>dbo_FactSaleReturn</TableID>
+                  <ColumnID>TotalDiscount</ColumnID>
+                </Source>
+              </Source>
+            </Measure>
           </Measures>
           <StorageMode>Molap</StorageMode>
           <ProcessingMode>Regular</ProcessingMode>
@@ -6130,7 +6141,7 @@ VISIBLE = 1 ,  DISPLAY_FOLDER = 'FactSaleReturn' ,  ASSOCIATED_MEASURE_GROUP = '
                 <Name>_ALL_TABLES_</Name>
                 <DiagramLayout>
                   <dds>
-                    <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="190" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="62105" scrolltop="126891" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="90" x="33338" y="17013" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+                    <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="190" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="62105" scrolltop="54138" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="90" x="33338" y="17013" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
                       <font>
                         <ddsxmlobjectstreamwrapper binary="01000000900144420100065461686f6d61" />
                       </font>
@@ -7672,7 +7683,7 @@ VISIBLE = 1 ,  DISPLAY_FOLDER = 'FactSaleReturn' ,  ASSOCIATED_MEASURE_GROUP = '
                 <ShowRelationshipNames>False</ShowRelationshipNames>
                 <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
                 <DiagramViewPortLeft>62105</DiagramViewPortLeft>
-                <DiagramViewPortTop>126891</DiagramViewPortTop>
+                <DiagramViewPortTop>54138</DiagramViewPortTop>
                 <DiagramBoundingLeft>0</DiagramBoundingLeft>
                 <DiagramBoundingTop>0</DiagramBoundingTop>
                 <DiagramZoom>90</DiagramZoom>
@@ -8494,6 +8505,7 @@ VISIBLE = 1 ,  DISPLAY_FOLDER = 'FactSaleReturn' ,  ASSOCIATED_MEASURE_GROUP = '
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
+                      <xs:element name="TotalDiscount" msprop:DbColumnName="TotalDiscount" msprop:design-time-name="d3af270c-d05e-43f9-b4c4-12ee235b762e" type="xs:decimal" minOccurs="0" />
                     </xs:sequence>
                   </xs:complexType>
                 </xs:element>
