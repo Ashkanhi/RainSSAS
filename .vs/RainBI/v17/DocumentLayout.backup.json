@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "E:\\BI\\BiProject\\RainBI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|E:\\BI\\BiProject\\RainBI\\RainBI\\Rain.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Rain.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|E:\\BI\\BiProject\\RainBI\\RainBI\\Rain DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
       "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Rain DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Stock.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Dim Stock.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Store.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
       "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Dim Store.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|E:\\BI\\BiProject\\RainBI\\RainBI\\RainBI.database||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\RainBI.database||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Product Group.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Dim Product Group.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Tax Group.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|solutionrelative:RainBI\\Dim Tax Group.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8FC0A18-F6A9-4B68-A7BA-6A9AB2C1504E}|RainBI\\RainBIMain.dwproj|E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Company.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,19 +54,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Rain.cube [Design]",
-              "DocumentMoniker": "E:\\BI\\BiProject\\RainBI\\RainBI\\Rain.cube",
-              "RelativeDocumentMoniker": "RainBI\\Rain.cube",
-              "ToolTip": "E:\\BI\\BiProject\\RainBI\\RainBI\\Rain.cube [Design]",
-              "RelativeToolTip": "RainBI\\Rain.cube [Design]",
+              "DocumentIndex": 1,
+              "Title": "Dim Stock.dim [Design]",
+              "DocumentMoniker": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Stock.dim",
+              "RelativeDocumentMoniker": "RainBI\\Dim Stock.dim",
+              "ToolTip": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Stock.dim [Design]",
+              "RelativeToolTip": "RainBI\\Dim Stock.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-28T10:46:24.155Z",
+              "WhenOpened": "2025-11-12T12:29:30.271Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "RainBI.database [Design]",
+              "DocumentMoniker": "E:\\BI\\BiProject\\RainBI\\RainBI\\RainBI.database",
+              "RelativeDocumentMoniker": "RainBI\\RainBI.database",
+              "ToolTip": "E:\\BI\\BiProject\\RainBI\\RainBI\\RainBI.database [Design]",
+              "RelativeToolTip": "RainBI\\RainBI.database [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-12T09:59:53.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Product Group.dim [Design]",
+              "DocumentMoniker": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Product Group.dim",
+              "RelativeDocumentMoniker": "RainBI\\Dim Product Group.dim",
+              "ToolTip": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Product Group.dim [Design]",
+              "RelativeToolTip": "RainBI\\Dim Product Group.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-22T14:17:18.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Tax Group.dim [Design]",
+              "DocumentMoniker": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Tax Group.dim",
+              "RelativeDocumentMoniker": "RainBI\\Dim Tax Group.dim",
+              "ToolTip": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Tax Group.dim [Design]",
+              "RelativeToolTip": "RainBI\\Dim Tax Group.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-22T14:15:52.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Rain DW.dsv [Design]",
               "DocumentMoniker": "E:\\BI\\BiProject\\RainBI\\RainBI\\Rain DW.dsv",
               "RelativeDocumentMoniker": "RainBI\\Rain DW.dsv",
@@ -66,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Dim Company.dim [Design]",
               "DocumentMoniker": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Company.dim",
               "RelativeDocumentMoniker": "RainBI\\Dim Company.dim",
@@ -77,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Dim Stock Document.dim [Design]",
               "DocumentMoniker": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Stock Document.dim",
               "RelativeDocumentMoniker": "RainBI\\Dim Stock Document.dim",
@@ -95,7 +141,8 @@
               "ToolTip": "E:\\BI\\BiProject\\RainBI\\RainBI\\Dim Store.dim [Design]",
               "RelativeToolTip": "RainBI\\Dim Store.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-17T12:45:19.314Z"
+              "WhenOpened": "2025-08-17T12:45:19.314Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },
